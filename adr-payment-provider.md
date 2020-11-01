@@ -19,7 +19,6 @@ This could be achieved by:
 * handling payments on Smart Fridge and Kiosk POS systems - assuming that their systems allow setting up discounts for specified credit/debit cards (as unique customer identifier),
 
 ## DECISION
-
 We will let Smart Fridge and Kiosk POS systems handle payments.
 
 We dismissed solution with handling payments on our systems because of concerns around latency and reliability of our backends.\
@@ -29,5 +28,4 @@ Adding additional backend communication would only lower the changes for it to b
 Additional advantage is that now our architecture doesn't have to focus on characteristics important to reliable payment processing.
 
 ## CONSEQUENCES
-
 We will require Smart Fridge and Kiosk POS solution that supports setting up discounts for specific customers (e.g. by using credit/debit card UID).
