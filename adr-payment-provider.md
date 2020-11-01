@@ -8,7 +8,7 @@ Customers need to be able to pay for their food.
 
 Currently we are supporting 3 ways of acquiring food: Smart Fridge, Kiosk and Home delivery.
 * Smart Fridge solution, [Byte Technology](https://bytetechnology.co/retailers/foodservice/), supports payments with credit/debig card.
-* Kiosk and Home delivery payments are handled by [Toast POS](https://pos.toasttab.com/), which also supports payment with credit/debig card.
+* Kiosk and Home delivery payments are handled by [Toast POS](https://pos.toasttab.com/), which also supports payment with credit/debit card.
 
 Customers are also sometimes eligible for discount or free meal coupon. This is provided through their Farmacy Food account.
 
